@@ -3,7 +3,7 @@
 Last updated: 21 September 2026
 
 Matte is an app for practising arithmetic and school algebra on squared
-paper. It is published by the developer of this repository and is available
+paper. It is published by bittib010 and is available
 on Google Play under the package name `no.matte.matte`.
 
 ## The short version
